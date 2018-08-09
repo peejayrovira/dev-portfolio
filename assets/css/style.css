@@ -1,11 +1,13 @@
 
 body	{
-	background-image: url(../images/2222.jpg);
+	background-image: url(../images/caution-cone-control-211151.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
+	border-image-align: center; 
 	color: #fff;
 	font-family: 'Titillium Web', sans-serif;
 	background-color: #008080;
+	height: 100vh;
 
 }
 h1	{
@@ -19,7 +21,7 @@ h1	{
 h2 {
 	text-transform: uppercase;
 	letter-spacing: 5px;
-	color: yellow;
+	color: #ffd700;
 }
 
 #me {
